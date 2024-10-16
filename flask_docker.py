@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 
 def hello_world():
-    return 'Hello FOSS, Hello CI/CD using Jenkins'
+    return 'Hello FOSS, Hello CI/CD using Jenkinss'
 if __name__ == '__main__':
     app.run(debug=True,host='0.0.0.0')
 
